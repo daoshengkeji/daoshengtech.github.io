@@ -1,0 +1,46 @@
+# scheme: Muse
+# scheme: Mist
+scheme: Pisces
+
+favicon:
+  small: https://daoshengtech-1256346555.cos.ap-shanghai.myqcloud.com/favicon.ico
+  medium: https://daoshengtech-1256346555.cos.ap-shanghai.myqcloud.com/favicon.ico
+  apple_touch_icon: https://daoshengtech-1256346555.cos.ap-shanghai.myqcloud.com/favicon.ico
+  safari_pinned_tab: /images/logo.svg
+
+footer:
+  since: 2018
+  powered: false
+  copyright: 湖南道圣科技有限公司
+  beian:
+    enable: true
+    icp: 湘ICP备18007408号-6
+
+# Easily enable fast Ajax navigation on your website.
+# Dependencies: https://github.com/theme-next/theme-next-pjax
+pjax: true
+vendors:
+  pjax: //cdn.jsdelivr.net/gh/theme-next/theme-next-pjax@0/pjax.min.js
+
+# 百度分享服务
+baidushare: true
+baidu_push: true
+# 百度统计
+baidu_analytics: 146686b4a19d91efa206ccca213feac9
+baidu_site_verification: code-EwssJyNY4h
+
+# Local search
+local_search:
+  enable: true
+
+# links
+links_settings:
+  title: 友情链接
+links:
+  湖南道圣科技官网: https://www.daoshengtech.cn/
+  道圣科技建站系统: http://www.daoshengkeji.cn/
+
+follow_me:
+  #Twitter: https://twitter.com/username || twitter
+  #Telegram: https://t.me/channel_name || telegram
+  WeChat: https://daoshengtech-weixin-1256346555.cos.ap-shanghai.myqcloud.com/qrcode_for_gh_b51a7d6ea441_258.jpg || wechat
