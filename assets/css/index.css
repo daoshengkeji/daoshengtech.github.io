@@ -152,7 +152,7 @@ img{
 }
 
 .flowBg{
-	background: url(https://daoshengtech-1256346555.cos.ap-shanghai.myqcloud.com/images/flowBg.jpg) center top no-repeat;
+	background: url(/assets/images/flowBg.jpg) center top no-repeat;
 	width: 100%;
 	height: 360px;
 	position: absolute;
